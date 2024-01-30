@@ -1,3 +1,4 @@
+<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.min.css'>
 # 2024 Azure OpenAI workshop
 # Feb 3rd at 1pm at [980 Spaces](https://maps.app.goo.gl/oF877cyzqfM1YZeG7)
 
