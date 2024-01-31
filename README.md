@@ -24,3 +24,4 @@
 - [The AI Study Guide](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/the-ai-study-guide-azure-s-top-free-resources-for-learning/ba-p/4036890)
 - [Last Years AI Bootcamp](https://aiworkshop.moo.com/aibootcamp/)
 - [Future location of Global AI Bootcamp 2024](https://github.com/GlobalAICommunity/global-ai-bootcamp-2024)
+- [2024 Microsoft AI Chat Hackathon](https://github.com/microsoft/AI-Chat-App-Hack#hack-together-the-ai-chat-app-hack)
