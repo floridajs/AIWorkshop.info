@@ -15,10 +15,11 @@
 - [This Workshop's Documentation](https://workshop.globalai.community/)
 - [Github Repo](https://github.com/GlobalAICommunity/AzureOpenAIService-Workshop?tab=readme-ov-file)
 - [The Presentation Slides](https://docs.google.com/presentation/d/12PlwRj_HyTucpfRUwe6mEf7pN6nXSe8NvZoKBNNDEEo/edit?usp=sharing)
+- [Playground](https://playground.globalai.community/)
 
 ## Get your OpenAI Keys from us:
 - [Platform.OpenAI.com/api-keys](https://platform.openai.com/api-keys)
-- [By Email with this form](https://workshop-key.globalai.community/)
+- [By Email with this form. Event key: YT6HJG](https://workshop-key.globalai.community/)
 
 ## Other Resources:
 - [The AI Study Guide](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/the-ai-study-guide-azure-s-top-free-resources-for-learning/ba-p/4036890)
