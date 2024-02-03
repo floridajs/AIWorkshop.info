@@ -1,7 +1,7 @@
 <link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.min.css'>
 
 # Feb 3rd at 1pm at [980 Spaces](https://maps.app.goo.gl/oF877cyzqfM1YZeG7)
-WiFi: 980_Spaces_Members pw: pass_980!
+WiFi: 980_Spaces_Members pw: pass980!
 
 ## Workshop:
 1) [Get your API Keys](https://global-ai-communiy.zapier.app/workshop-key?field-8ec4=YT6HJG)<br />
