@@ -8,6 +8,7 @@
 3) [Playground](https://playground.globalai.community/) <br />
 4) [Workshop Details](https://workshop.globalai.community/)<br />
 5) [The Presentation Slides](https://docs.google.com/presentation/d/12PlwRj_HyTucpfRUwe6mEf7pN6nXSe8NvZoKBNNDEEo/edit?usp=sharing)<br />
+6) [David's Intro Slides](https://alongside-cc.github.io/sofla-ai-workshop-intro)<br />
 
 
 ## Meetups:
