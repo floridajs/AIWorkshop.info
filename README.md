@@ -4,12 +4,13 @@
 ### March 2nd 9am at Carl DeSantis Building, NSU, David FL
 
 ## Workshop:
-1) [**Get your API Key** *(event code PQJBB3)*](https://global-ai-communiy.zapier.app/workshop-key?field-8ec4=PQJBB3)<br />
-2) [Sign up to future AI Events](https://mailchi.mp/918b2bbcebcf/ai-workshop)<br />
-3) [Playground](https://playground.globalai.community/) <br />
-4) [Workshop Details](https://globalaicommunity.github.io/global-ai-bootcamp-2024/)<br />
-5) [The Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vR95Qb2DAk8BJpiVmZDGFPR74aZmAso5H6L7sshKIBnv1EDxYKw21fJVILrtiojgt-uYq9pRdq7GFRn/pub)<br />
-6) [David's Intro Slides](https://alongside-cc.github.io/sofla-ai-workshop-intro)<br />
+1.  [**Get your API Key** *(event code PQJBB3)*](https://global-ai-communiy.zapier.app/workshop-key?field-8ec4=PQJBB3)
+1.  [Sign up to future AI Events](https://mailchi.mp/918b2bbcebcf/ai-workshop)
+1.  [Playground](https://playground.globalai.community/) 
+1.  [Workshop Details](https://globalaicommunity.github.io/global-ai-bootcamp-2024/workshop/)
+1.  [Get your Badge](https://globalai.community/bootcamp/united-states-of-america-davie-fl/badge/)
+1.  [David's Intro Slides](https://alongside-cc.github.io/sofla-ai-workshop-intro)
+1. [The Presentation Slides](https://docs.google.com/presentation/d/e/2PACX-1vR95Qb2DAk8BJpiVmZDGFPR74aZmAso5H6L7sshKIBnv1EDxYKw21fJVILrtiojgt-uYq9pRdq7GFRn/pub)
 
 
 ## Meetups:
@@ -22,6 +23,7 @@
 
 
 ## Other Resources:
+- [Global AI Bootcamp 2024 site](https://globalaicommunity.github.io/global-ai-bootcamp-2024/)
 - [Workshop Presentation Videos](https://globalaicommunity.github.io/global-ai-bootcamp-2024/presentations/)
   
 - [Workshop's Github Repo](https://github.com/GlobalAICommunity/global-ai-bootcamp-2024?tab=readme-ov-file)
