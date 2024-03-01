@@ -1,7 +1,9 @@
 <link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.min.css'>
 
+
 ## Global AI Bootcamp 2024
 ### March 2nd 9am at Carl DeSantis Building, NSU, David FL
+
 
 ## Workshop:
 1.  [**Get your API Key** *(event code PQJBB3)*](https://global-ai-communiy.zapier.app/workshop-key?field-8ec4=PQJBB3)
