@@ -4,7 +4,7 @@
 ### March 2nd 9am at Carl DeSantis Building, NSU, David FL
 
 ## Workshop:
-1.  [**Get your API Key** *(event code PQJBB3)*](https://global-ai-communiy.zapier.app/workshop-key?field-8ec4=PQJBB3)
+1.  [**Get your API Key** *(event code UYT6RTY)*](https://global-ai-communiy.zapier.app/workshop-key?field-8ec4=UYT6RTY)
 1.  [Sign up to future AI Events](https://mailchi.mp/918b2bbcebcf/ai-workshop)
 1.  [Playground](https://playground.globalai.community/) 
 1.  [Workshop Details](https://globalaicommunity.github.io/global-ai-bootcamp-2024/workshop/)
