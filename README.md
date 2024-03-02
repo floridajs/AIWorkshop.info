@@ -4,6 +4,8 @@
 ## Global AI Bootcamp 2024
 ### March 2nd 9am at Carl DeSantis Building, NSU, Davie FL
 
+[FloridaJS Meetup Event Link:](https://www.meetup.com/floridajs/events/299065069/)
+https://www.meetup.com/floridajs/events/299065069/
 
 ## Workshop:
 1.  [**Get your API Key** *(event code UYT6RTY)*](https://global-ai-communiy.zapier.app/workshop-key?field-8ec4=UYT6RTY)
