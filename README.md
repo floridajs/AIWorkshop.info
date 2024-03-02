@@ -2,7 +2,7 @@
 
 
 ## Global AI Bootcamp 2024
-### March 2nd 9am at Carl DeSantis Building, NSU, David FL
+### March 2nd 9am at Carl DeSantis Building, NSU, Davie FL
 
 
 ## Workshop:
