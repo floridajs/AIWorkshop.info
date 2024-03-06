@@ -33,7 +33,7 @@ https://www.meetup.com/floridajs/events/299065069/
   
 - [Workshop's Github Repo](https://github.com/GlobalAICommunity/global-ai-bootcamp-2024?tab=readme-ov-file)
 
-- [AI-in-a-box](https://github.com/Azure/AI-in-a-Box) [Video Intro](https://www.youtube.com/watch?v=qKXNbtHr3AI)
+- [AI-in-a-box](https://github.com/Azure/AI-in-a-Box) -> [Video Intro](https://www.youtube.com/watch?v=qKXNbtHr3AI)
 - [OpenAI Workshop](https://github.com/microsoft/OpenAIWorkshop)
 - [Train a model and debug it with Responsible AI dashboard](https://learn.microsoft.com/training/modules/train-model-debug-with-responsible-ai-dashboard-azure-machine-learning/)
 - [Develop Generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/training/paths/develop-ai-solutions-azure-openai/)
